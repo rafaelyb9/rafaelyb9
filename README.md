@@ -5,7 +5,7 @@ Hello, my name is Rafael Yoga. I am an Informatics student who has a strong inte
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,ps,vscode)](https://skillicons.dev)
 ### Connect With Me!
-[![https://instagram.com/rafaelyg_]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![https://instagram.com/rafaelyg_] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **rafaelyb9/rafaelyb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
