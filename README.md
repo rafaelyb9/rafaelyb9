@@ -3,7 +3,7 @@
 ### About Me
 Hello, my name is Rafael Yoga. I am an Informatics student who has a strong interest in technology, programming, and web development. I enjoy learning how software works and exploring new tools that help me improve my programming skills.  I like building small projects to practice my skills and gain practical experience. My goal is to continue developing my abilities and become a skilled software developer who can create useful and impactful digital solutions in the future. 🚀
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,ps,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql,ps,vscode)](https://skillicons.dev)
 ### Connect With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafaelyg_)
 
